@@ -8,7 +8,7 @@
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 💼 &nbsp; Working as a UI Engineer at Pragiti Internet Technologies , Mumbai.
 - 🌱 &nbsp; Learning more about web and mobile apps.
-- ✍️ &nbsp; Pursuing Graphic Design and Blog Writing as hobbies/side hustles.
+- ✍️ &nbsp; Pursuing Full Stack developement & UX designing.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
