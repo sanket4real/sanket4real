@@ -1,5 +1,5 @@
 ### Hi there 👋
-<img height="100px" src="https://photos.app.goo.gl/AucBQndz9rLZYMDv5" />
+<img height="100px" src="https://drive.google.com/file/d/14hMlcQgezAFbm11vMXl8Aiaax5qlrQdI/view?usp=sharing" />
 
 <h2> Hey there! I'm Sanket.</h2>
 
