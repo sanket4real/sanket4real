@@ -6,9 +6,8 @@
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; Studying Computer Science and Mathematics at University of Massachusetts Amherst.
-- 💼 &nbsp; Working as a Business Development Associate at VirtuBox InfoTech Private Limited.
-- 🌱 &nbsp; Learning more about Cloud Architecture, Systems Design and Artificial Intelligence.
+- 💼 &nbsp; Working as a UI Engineer at Pragiti Internet Technologies , Mumbai.
+- 🌱 &nbsp; Learning more about web and mobile apps.
 - ✍️ &nbsp; Pursuing Graphic Design and Blog Writing as hobbies/side hustles.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
@@ -28,7 +27,6 @@
 - 🔧 &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 
-
 <br/>
 
 <a href="https://github.com/sanket4real">
@@ -41,10 +39,10 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
-<a href="https://www.sanketdesai.tech/"><img alt="Website" src="https://img.shields.io/badge/Website-www.adityavsingh.com-blue?style=flat-square&logo=google-chrome"></a>
-<a href="https://www.linkedin.com/in/AVS1508/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin.com/in/sanket-desai-01956b128/-blue?style=flat-square&logo=linkedin"></a>
-<a href="https://www.instagram.com/sanket4real/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-adityavs__-blue?style=flat-square&logo=instagram"></a>
-<a href="mailto:avsingh@umass.edu"><img alt="Email" src="https://img.shields.io/badge/Email-avsingh@umass.edu-blue?style=flat-square&logo=gmail"></a>
+<a href="https://www.sanketdesai.tech/"><img alt="Website" src="https://img.shields.io/badge/Website-www.sanketdesai.tech-blue?style=flat-square&logo=google-chrome"></a>
+<a href="https://www.linkedin.com/in/sanket-desai-01956b128"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Sanket%20Desai-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://www.instagram.com/sanket4real/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-sanket4real-blue?style=flat-square&logo=instagram"></a>
+<a href="mailto:desaisanket68@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-desaisanket68@gmail.comu-blue?style=flat-square&logo=gmail"></a>
 </p>
 
 ⭐️ From [AVS1508](https://github.com/AVS1508)
