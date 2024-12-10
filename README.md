@@ -5,7 +5,7 @@
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 💼 &nbsp; Working as a UI Engineer at Pragiti Internet Technologies , Mumbai.
+- 💼 &nbsp; Working as a Senior Software Engineer - Front End , Mumbai.
 - 🌱 &nbsp; Learning more about web and mobile apps.
 - ✍️ &nbsp; Pursuing Full Stack developement & UX designing.
 
