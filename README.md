@@ -38,10 +38,9 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
-<a href="https://www.sanketdesai.tech/"><img alt="Website" src="https://img.shields.io/badge/Website-www.sanketdesai.tech-blue?style=flat-square&logo=google-chrome"></a>
+<a href="https://sanketdesai.online/"><img alt="Website" src="https://img.shields.io/badge/Website-www.sanketdesai.tech-blue?style=flat-square&logo=google-chrome"></a>
 <a href="https://www.linkedin.com/in/sanket-desai-01956b128"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Sanket%20Desai-blue?style=flat-square&logo=linkedin"></a>
 <a href="https://www.instagram.com/sanket4real/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-sanket4real-blue?style=flat-square&logo=instagram"></a>
 <a href="mailto:desaisanket68@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-desaisanket68@gmail.comu-blue?style=flat-square&logo=gmail"></a>
 </p>
 
-⭐️ From [AVS1508](https://github.com/AVS1508)
